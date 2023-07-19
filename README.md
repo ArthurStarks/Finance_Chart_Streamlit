@@ -7,7 +7,7 @@ Allows you to select one of the 500 companies that compose the S&P 500 and
 display a updated chart of adjusted closing prices, as well as add a pair of
 moving averages.
 
-![Sample Animation](https://raw.github.com/ArthurStarks/Finance_Chart_Streamlit/blob/main/sample.gif) "Sample Animation")
+![Sample Animation](https://raw.githubusercontent.com/paduel/streamlit_finance_chart/master/sample.gif "Sample Animation")
 
 ## Requirements
 
